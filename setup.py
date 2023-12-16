@@ -7,9 +7,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 __version__ = "0.0.0"
 
 REPO_NAME = "ISE-Projekt"
-AUTHOR_USER_NAME = "Nacir95_Ahmad1993aj"
+AUTHOR_USER_NAME = "Nacir95 Ahmad1993aj"
 SRC_REPO = "Classification"
-AUTHOR_EMAIL = "naciraffes@gmail.com"
+AUTHOR_EMAIL = "naciraffes@gmail.com ahmadjawoosh@gmail.com"
 
 
 setuptools.setup(
