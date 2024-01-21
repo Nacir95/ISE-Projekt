@@ -2,7 +2,7 @@ AUGMENTATION: True
 IMAGE_SIZE: [224, 224, 3] # VGG 16 model
 BATCH_SIZE: 16 # Training Lokal.
 INCLUDE_TOP: False
-EPOCHS: 200 # Anfangen mit 1 dann kann man es verbessern
+EPOCHS: 300 # Anfangen mit 1 dann kann man es verbessern
 CLASSES: 2 # laut dataset gibt es yes oder no classes
 WEIGHTS: imagenet
 LEARNING_RATE: 0.1e-4
