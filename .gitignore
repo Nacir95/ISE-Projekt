@@ -162,4 +162,3 @@ cython_debug/
 # Ignoriere PyCharm Projektdateien
 .idea/
 
-artifacts/*
